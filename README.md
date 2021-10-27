@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @buianhduc0612
+- 👋 Hi, I’m Pi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Javascript, HTML 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 Please reach me @ buianhduc0612@gmail.com
 
 <!---
